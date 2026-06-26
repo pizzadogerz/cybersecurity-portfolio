@@ -15,4 +15,3 @@ smoothly, support users with technical issues, and help protect organizations
 from security threats. I'm still early in my cybersecurity journey, but I'm 
 committed to keep building my skills and growing into an analyst or IT support 
 role over time.
-*Coming soon*
