@@ -10,7 +10,8 @@ tcpdump network logs to identify which protocols were affected during a
 real-world style security incident.
 
 **Protocols involved:** UDP, ICMP, DNS  
-**Tools used:** tcpdump (network protocol analyzer)
+**Tools used:** tcpdump or a network protocol analyzer
+
 
 ---
 
