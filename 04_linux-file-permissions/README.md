@@ -13,7 +13,7 @@ While going through a Linux system as part of a security audit, I found a few fi
 I used `ls -l` to check permissions and ownership in the target directory:
 
 ```
-[PASTE YOUR ls -l OUTPUT HERE]
+[ ls -l ]
 ```
 
 **What I found:**
@@ -43,7 +43,7 @@ This limits the key to read/write for the owner only, which is what SSH requires
 
 ## Part 3: Checking my work
 ```
-[PASTE YOUR ls -l OUTPUT AFTER FIXES HERE]
+[ ls -l]
 ```
 
 ## Why it matters
