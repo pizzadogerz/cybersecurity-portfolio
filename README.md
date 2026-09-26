@@ -20,7 +20,7 @@ and building hands-on skills in network security, Linux, SQL, and incident respo
 | 1 | [Professional Statement](./01_professional-statement/README.md) | Career goals, security mindset |
 | 2 | [Mock Security Audit](./02_mock-security-audit/README.md) | Risk assessment, controls, compliance |
 | 3 | [Network Structure & Security Analysis](03_network-analysis/README.md) | Network security |
-| 4 | Linux File Permissions | CLI, Linux |
+| 4 | [Linux File Permissions](04_linux-file-permissions/README.md) | CLI, Linux |
 | 5 | SQL Query Filters | SQL, filtering |
 | 6 | Vulnerability Assessment (Small Business) | Vulnerability identification |
 | 7 | Incident Handler's Journal | Incident response |
